@@ -63,6 +63,6 @@ function draw() {
   textFont("Mercy")
   text(H+"⁢⁢⁢:"+M,width/2-180,height/2+30)
   textSize(120)
-  text("Hello Shalini ma'am",width/2-360,height/2+140)
+  text("Hello Prakrit Maan",width/2-360,height/2+140)
   drawSprites();
 }
